@@ -1,2 +1,4 @@
 # Graphiti
-Add-In to PowerPoint which enables users to import **dynamic graphical visualisations** written in D3.js ~~online~~ **on the fly!**
+
+The add-in enables users to create **interactive* graphs based on d3.js. You can now showcase your **dynamic visualizations ~~online~~ offline!** All you have to do is drag and drop your data and our add-in automatically suggests d3 based interactive graphs!
+<br>
