@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\GraphitiManifest.xml
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\Graphiti\bin\Debug\Graphiti.debugapp

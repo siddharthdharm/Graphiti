@@ -1,0 +1,2 @@
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\Graphiti\obj\Debug\Graphiti.csproj.CoreCompileInputs.cache
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\Graphiti\obj\Debug\Graphiti.csprojResolveAssemblyReference.cache

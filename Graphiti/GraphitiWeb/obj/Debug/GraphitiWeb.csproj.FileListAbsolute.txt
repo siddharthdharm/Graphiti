@@ -1,0 +1,9 @@
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\bin\GraphitiWeb.dll.config
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\bin\GraphitiWeb.dll
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\bin\GraphitiWeb.pdb
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\obj\Debug\GraphitiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\obj\Debug\GraphitiWeb.dll
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\obj\Debug\GraphitiWeb.pdb
+C:\Users\Siddhant Shenoy\source\repos\Graphiti\GraphitiWeb\obj\Debug\GraphitiWeb.csprojResolveAssemblyReference.cache
